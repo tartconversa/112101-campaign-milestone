@@ -9,6 +9,7 @@
 - `sources/` 保存原始业务记录。
 - `sources/stages.csv`
 - `sources/objectives.csv`
+- `sources/scoped_items.csv`
 - `sources/execution.csv`
 - `src/campaign_milestones/` 是 Python 包入口。
 - `tests/` 检查随项目提供的源文件格式。

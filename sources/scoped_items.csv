@@ -1,0 +1,6 @@
+record_id,scope_record_id,objective_id,stage_revision,work_item_id,scope_state,recorded_at
+scoped_items-01,SCOPE-1,OBJ-1,1,CASE-7,included,2026-09-01T10:00:00Z
+scoped_items-02,SCOPE-2,OBJ-1,1,CASE-8,included,2026-09-01T10:00:00Z
+scoped_items-03,SCOPE-3,OBJ-2,2,CASE-8,included,2026-09-04T12:00:00Z
+scoped_items-04,SCOPE-4,OBJ-2,2,CASE-9,included,2026-09-04T12:00:00Z
+scoped_items-05,SCOPE-5,OBJ-3,1,CASE-9,included,2026-09-16T10:00:00Z
