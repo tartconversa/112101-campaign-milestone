@@ -1,0 +1,4 @@
+record_id,stage_id,revision,valid_from,due_at,scope_ref,stage_state
+stages-01,STG-1,1,2026-09-01T00:00:00Z,2026-09-15T00:00:00Z,AREA-A,active
+stages-02,STG-1,2,2026-09-06T00:00:00Z,2026-09-18T00:00:00Z,AREA-B,amended
+stages-03,STG-2,1,2026-09-16T00:00:00Z,2026-09-30T00:00:00Z,AREA-C,planned
