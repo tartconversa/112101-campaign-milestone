@@ -1,0 +1,3 @@
+record_id,objective_id,stage_id,stage_revision,measure_code,expected_count,confirmed_at,objective_state
+objectives-04,OBJ-3,STG-2,1,reviewed_cases,18,2026-09-17T09:00:00Z,confirmed
+objectives-05,OBJ-2,STG-1,3,appeal_response,10,2026-09-20T08:30:00Z,confirmed

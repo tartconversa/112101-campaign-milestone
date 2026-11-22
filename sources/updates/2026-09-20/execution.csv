@@ -1,0 +1,5 @@
+record_id,execution_id,objective_id,work_item_id,team_id,started_at,reported_at,reported_count,review_state
+execution-04,EX-13,OBJ-2,CASE-9,TEAM-A,2026-09-05T13:00:00Z,2026-09-19T10:00:00Z,1,submitted
+execution-05,EX-12,OBJ-1,CASE-7,TEAM-B,2026-09-03T09:00:00Z,2026-09-18T08:00:00Z,1,accepted
+execution-06,EX-14,OBJ-3,CASE-9,TEAM-C,2026-09-17T08:00:00Z,2026-09-19T16:00:00Z,0,paused
+execution-07,EX-15,OBJ-2,CASE-11,TEAM-A,2026-09-18T09:00:00Z,2026-09-19T11:00:00Z,1,submitted
